@@ -1,3 +1,11 @@
+<a href="https://dsc.gg/kof/"><img width="120" height="120" align="left" style="float: left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"></a>
+# Instagram Phising with Webhook
+
+[![KoF](https://img.shields.io/discord/857314563639476275?color=5865F2&logo=discord&logoColor=white&style=for-the-badge)](https://dsc.gg/kof/)
+
+## Supported Languages
+-   English
+
 <p align="center"><img src="https://github.com/GarudaID/ig-phising/blob/main/pict/oke.PNG"></p>
 <br>
 <p align="center"><img src="https://github.com/GarudaID/ig-phising/blob/main/pict/okex.PNG"></p>
